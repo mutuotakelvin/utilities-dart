@@ -67,11 +67,11 @@ void demoTryCatch() {
 }
 
 void main() {
-  // print(add(2, 3));
-  // printNumbers();
-  // print(checkString('Dart'));
-  // printNumbersReverse();
-  // print(checkEvenOdd(5));
-  // print(findLargestNumber([1, 2, 5, 3, 4]));
+  print(add(2, 3));
+  printNumbers();
+  print(checkString('Dart'));
+  printNumbersReverse();
+  print(checkEvenOdd(5));
+  print(findLargestNumber([1, 2, 5, 3, 4]));
   demoTryCatch();
 }
